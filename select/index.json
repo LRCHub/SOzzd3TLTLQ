@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "デートの後、22時",
+  "base_artist": "≠ME",
+  "createdAt": "2025-12-04T12:46:20.864360Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "デートの後、22時",
+      "artist": "Not Equal Me",
+      "has_synced": true,
+      "path": "select/01_デートの後、22時_Not_Equal_Me.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "デートの後、22時",
+      "artist": "≠ME",
+      "has_synced": true,
+      "path": "select/02_デートの後、22時_≠ME.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "デートの後、22時",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_デートの後、22時_≠ME.txt"
+    }
+  ]
+}
